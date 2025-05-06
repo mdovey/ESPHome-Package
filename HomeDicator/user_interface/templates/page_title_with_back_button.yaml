@@ -41,7 +41,7 @@ obj:
                 type: FLEX
                 flex_flow: ROW
                 flex_align_cross: CENTER
-                pad_column: -5
+                pad_column: 0
               widgets:
                 - label:
                     pad_all: 0
