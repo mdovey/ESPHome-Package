@@ -40,8 +40,8 @@ obj:
                 radius: 10
                 pad_top: 0
                 pad_bottom: 0
-                pad_left: -40
-                pad_right: -40
+                pad_left: 0
+                pad_right: 0
               on_press:
                 then:
                   - globals.set:
