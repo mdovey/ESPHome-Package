@@ -5,8 +5,8 @@ esphome:
     name: "paulvincentroll.HomeDicator"
     version: ${homedicator_core_version_tag}
 
-  includes:
-    - file: HomeDicator/core/helpers/adjust_color.h
+#  includes:
+#    - HomeDicator/core/helpers/adjust_color.h
 
   platformio_options:
     build_unflags: -Werror=all
